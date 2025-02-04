@@ -41,4 +41,4 @@ Follow these steps to build the project using Visual Studio 2022:
 
 ## Usage
 
-After successfully building the project, you can run the executable located in the `x64/Debug` directory. The demo showcases the use of a compute shader for [Specify what the compute shader is doing, e.g., image processing, physics simulation].
+After successfully building the project, you can run the executable located in the `x64/Debug` directory. The demo showcases the use of a compute shader for image processing.
