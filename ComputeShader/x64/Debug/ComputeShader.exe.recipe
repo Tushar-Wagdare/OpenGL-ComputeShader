@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\tusha\Desktop\MyOpenGL\36_ComputeShader\x64\Debug\ComputeShader.exe</FullPath>
+      <FullPath>C:\Users\tusha\Desktop\OpenGL\OpenGL-ComputeShader\x64\Debug\ComputeShader.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
